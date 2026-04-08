@@ -1,0 +1,32 @@
+{
+  "name": "airtest-ide",
+  "version": "1.0.0",
+  "description": "AirTest IDE 手机自动化脚本创建工具",
+  "author": "Sisyphus",
+  "trigger": [
+    "airtest",
+    "手机自动化",
+    "app自动化测试",
+    "移动端自动化",
+    "airtest ide",
+    "图像识别测试",
+    "poco框架"
+  ],
+  "capabilities": [
+    "环境配置指导",
+    "脚本结构模板",
+    "常用API参考",
+    "最佳实践建议",
+    "常见问题解决"
+  ],
+  "category": "testing",
+  "dependencies": {
+    "airtest": ">=1.2.0",
+    "poco": ">=1.0.0"
+  },
+  "platform": [
+    "android",
+    "ios",
+    "windows"
+  ]
+}
